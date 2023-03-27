@@ -13,3 +13,14 @@
 .section-title{
     color: #E76F51;
 }
+/* footer */
+.footer{
+    background-color: #15112e;
+}
+.footer-menu{
+    list-style: none;
+    gap:20px;
+}
+.copyright-symbol{
+    margin-left:1.9rem;
+}
